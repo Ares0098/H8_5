@@ -1,0 +1,5 @@
+Link Github Project 1 :
+https://github.com/Ares0098/H8_5/tree/master/Final%20Project%202
+
+Link Model Deployment Project 1 :
+https://h8-pytn-ks05-fp2-kelompok3.herokuapp.com/
